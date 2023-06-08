@@ -4,6 +4,6 @@ public class Git{
         pullGit();
     }
     static void pullGit(){
-        System.out.println("This function is used for pull);
+        System.out.println("This function is used for pull");
     }
 }
